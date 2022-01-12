@@ -1,0 +1,17 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Azeez",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}

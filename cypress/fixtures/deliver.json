@@ -1,0 +1,61 @@
+{
+    "signup": {
+
+    "name": "Mano Azeez",
+    "cpf": "03346646688",
+    "email": "test@email.com",
+    "whatsapp": "85999161700",
+    "address": {
+
+        "postalcode": "60751090",
+        "street": "Rua 91",
+        "number": "50",
+        "district": "Prefeito José Walter",
+        "city_state": "Fortaleza/CE"
+
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+    
+    },
+    "cpf_inv": {
+
+        "name": "LEAMSI XD",
+        "cpf": "033466466AA",
+        "email": "test@email.com",
+        "whatsapp": "85999161700",
+        "address": {
+    
+            "postalcode": "60751090",
+            "street": "Rua 91",
+            "number": "50",
+            "district": "Prefeito José Walter",
+            "city_state": "Fortaleza/CE"
+    
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "email_inv": {
+
+        "name": "Agora o Email vai Dar Errado",
+        "cpf": "12345687908",
+        "email": "test.br.com",
+        "whatsapp": "85999161700",
+        "address": {
+    
+            "postalcode": "60751090",
+            "street": "Rua 91",
+            "number": "50",
+            "district": "Prefeito José Walter",
+            "city_state": "Fortaleza/CE"
+    
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+
+    }
+
+
+}
