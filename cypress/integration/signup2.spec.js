@@ -1,13 +1,7 @@
-import signupFactory from '../../factories/signupFactory'
-import signupPage from '../../pages/SignupPage'
+import signupFactory from '../factories/signupFactory'
+import signupPage from '../pages/SignupPage'
 
 describe('Signup', () => {
-
-    // beforeEach(function(){
-    //     cy.fixture('deliver').then((d)=>{
-    //         this.deliver = d
-    //     })
-    // })
 
     it('User should be deliver', function () {
 
