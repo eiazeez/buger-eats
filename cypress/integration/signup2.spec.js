@@ -73,4 +73,4 @@ describe('Signup', () => {
 
 })
 
-// Retestando a integração!
+// Testando o GH Actions v2
