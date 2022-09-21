@@ -1,6 +1,8 @@
 name: Cypress Regression Tests
 
-on: [push]
+on:
+  schedule:
+  - cron: "0 0 * * *"
 
 jobs:
 
